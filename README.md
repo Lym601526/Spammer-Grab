@@ -1,0 +1,2 @@
+# Spammer-Grab
+مجرد اداة 
